@@ -8,7 +8,7 @@ session = requests.Session()
 # Define the URL and initial data for the POST request
 url = 'https://seda60.ir/'
 data = {
-    'domain': 'ravro.ir',
+    'domain': 'your-website', #insert the name of the website you want to vote
     'token': '',
     'submitAddNewScore': '1',
     'score': '20'
